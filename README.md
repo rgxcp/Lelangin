@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `91`
 
-Completed Tasks : `30`
+Completed Tasks : `39`
 
-Progress : `32.96%`
+Progress : `42.85%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -57,15 +57,15 @@ Progress : `32.96%`
   - [x] UserProductsScreen
   - [x] WinAuctionScreen
   - [x] `index.js`
-- [ ] Create base components
-  - [ ] Account
-  - [ ] Address
-  - [ ] Bank
-  - [ ] Bid
-  - [ ] Invoice
-  - [ ] Product
-  - [ ] UserProduct
-  - [ ] `index.js`
+- [x] Create base components
+  - [x] Account
+  - [x] Address
+  - [x] Bank
+  - [x] Bid
+  - [x] Invoice
+  - [x] Product
+  - [x] UserProduct
+  - [x] `index.js`
 - [ ] Create base navigators
   - [ ] AuthTab
   - [ ] GuestStack
