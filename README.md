@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `91`
 
-Completed Tasks : `6`
+Completed Tasks : `30`
 
-Progress : `6.59%`
+Progress : `32.96%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -33,30 +33,30 @@ Progress : `6.59%`
   - [x] React Navigation
     - [x] Material Bottom Tabs Navigator
     - [x] Stack Navigator
-- [ ] Create base screens
-  - [ ] AccountsScreen
-  - [ ] AddressesScreen
-  - [ ] AuctionScreen
-  - [ ] BanksScreen
-  - [ ] CreateAccountScreen
-  - [ ] CreateAddressScreen
-  - [ ] CreateProductScreen
-  - [ ] EditAccountScreen
-  - [ ] EditAddressScreen
-  - [ ] EditProductScreen
-  - [ ] GuestScreen
-  - [ ] InvoiceDetailScreen
-  - [ ] InvoicesScreen
-  - [ ] JoinedAuctionsScreen
-  - [ ] LoginScreen
-  - [ ] LoseAuctionScreen
-  - [ ] ProductDetailScreen
-  - [ ] ProductsScreen
-  - [ ] ProfileScreen
-  - [ ] RegisterScreen
-  - [ ] UserProductsScreen
-  - [ ] WinAuctionScreen
-  - [ ] `index.js`
+- [x] Create base screens
+  - [x] AccountsScreen
+  - [x] AddressesScreen
+  - [x] AuctionScreen
+  - [x] BanksScreen
+  - [x] CreateAccountScreen
+  - [x] CreateAddressScreen
+  - [x] CreateProductScreen
+  - [x] EditAccountScreen
+  - [x] EditAddressScreen
+  - [x] EditProductScreen
+  - [x] GuestScreen
+  - [x] InvoiceDetailScreen
+  - [x] InvoicesScreen
+  - [x] JoinedAuctionsScreen
+  - [x] LoginScreen
+  - [x] LoseAuctionScreen
+  - [x] ProductDetailScreen
+  - [x] ProductsScreen
+  - [x] ProfileScreen
+  - [x] RegisterScreen
+  - [x] UserProductsScreen
+  - [x] WinAuctionScreen
+  - [x] `index.js`
 - [ ] Create base components
   - [ ] Account
   - [ ] Address
