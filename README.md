@@ -23,16 +23,16 @@ DEVELOPING
 ## TODOs
 Total Tasks : `91`
 
-Completed Tasks : `0`
+Completed Tasks : `6`
 
-Progress : `0%`
+Progress : `6.59%`
 
-- [ ] Install packages
-  - [ ] Async Storage
-  - [ ] Axios
-  - [ ] React Navigation
-    - [ ] Material Bottom Tabs Navigator
-    - [ ] Stack Navigator
+- [x] Install packages
+  - [x] Async Storage
+  - [x] Axios
+  - [x] React Navigation
+    - [x] Material Bottom Tabs Navigator
+    - [x] Stack Navigator
 - [ ] Create base screens
   - [ ] AccountsScreen
   - [ ] AddressesScreen
