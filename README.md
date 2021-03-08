@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `91`
 
-Completed Tasks : `39`
+Completed Tasks : `46`
 
-Progress : `42.85%`
+Progress : `50.54%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -66,13 +66,13 @@ Progress : `42.85%`
   - [x] Product
   - [x] UserProduct
   - [x] `index.js`
-- [ ] Create base navigators
-  - [ ] AuthTab
-  - [ ] GuestStack
-  - [ ] HomeStack
-  - [ ] JoinedAuctionsStack
-  - [ ] ProfileStack
-  - [ ] `index.js`
+- [x] Create base navigators
+  - [x] AuthTab
+  - [x] GuestStack
+  - [x] HomeStack
+  - [x] JoinedAuctionsStack
+  - [x] ProfileStack
+  - [x] `index.js`
 - [ ] Create base localizations
   - [ ] id
   - [ ] `index.js`
