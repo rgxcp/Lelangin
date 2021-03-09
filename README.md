@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `93`
 
-Completed Tasks : `51`
+Completed Tasks : `57`
 
-Progress : `54.83%`
+Progress : `61.29%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -78,12 +78,12 @@ Progress : `54.83%`
   - [x] id
   - [x] `index.js`
 - [x] Create base routes
-- [ ] Fill base navigators
-  - [ ] AuthTab
-  - [ ] GuestStack
-  - [ ] HomeStack
-  - [ ] JoinedAuctionsStack
-  - [ ] ProfileStack
+- [x] Fill base navigators
+  - [x] AuthTab
+  - [x] GuestStack
+  - [x] HomeStack
+  - [x] JoinedAuctionsStack
+  - [x] ProfileStack
 - [ ] Fill base routes
 - [ ] Configure `App.js`
 - [ ] Fill base screens
