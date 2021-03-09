@@ -21,11 +21,11 @@ DEVELOPING
 5. Do-what-you-want-with-it!
 
 ## TODOs
-Total Tasks : `91`
+Total Tasks : `93`
 
-Completed Tasks : `50`
+Completed Tasks : `48`
 
-Progress : `54.94%`
+Progress : `51.61%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -33,7 +33,7 @@ Progress : `54.94%`
   - [x] React Navigation
     - [x] Material Bottom Tabs Navigator
     - [x] Stack Navigator
-- [x] Create base screens
+- [ ] Create base screens
   - [x] AccountsScreen
   - [x] AddressesScreen
   - [x] AuctionScreen
@@ -54,9 +54,10 @@ Progress : `54.94%`
   - [x] ProductsScreen
   - [x] ProfileScreen
   - [x] RegisterScreen
+  - [ ] SplashScreen
   - [x] UserProductsScreen
   - [x] WinAuctionScreen
-  - [x] `index.js`
+  - [ ] `index.js`
 - [x] Create base components
   - [x] Account
   - [x] Address
@@ -106,6 +107,7 @@ Progress : `54.94%`
   - [ ] ProductsScreen
   - [ ] ProfileScreen
   - [ ] RegisterScreen
+  - [ ] SplashScreen
   - [ ] UserProductsScreen
   - [ ] WinAuctionScreen
 - [ ] Fill base components
