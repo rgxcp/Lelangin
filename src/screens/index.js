@@ -18,6 +18,7 @@ import ProductDetailScreen from './ProductDetailScreen';
 import ProductsScreen from './ProductsScreen';
 import ProfileScreen from './ProfileScreen';
 import RegisterScreen from './RegisterScreen';
+import SplashScreen from './SplashScreen';
 import UserProductsScreen from './UserProductsScreen';
 import WinAuctionScreen from './WinAuctionScreen';
 
@@ -42,6 +43,7 @@ export {
   ProductsScreen,
   ProfileScreen,
   RegisterScreen,
+  SplashScreen,
   UserProductsScreen,
   WinAuctionScreen
 };

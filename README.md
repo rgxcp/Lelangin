@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `93`
 
-Completed Tasks : `48`
+Completed Tasks : `51`
 
-Progress : `51.61%`
+Progress : `54.83%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -33,7 +33,7 @@ Progress : `51.61%`
   - [x] React Navigation
     - [x] Material Bottom Tabs Navigator
     - [x] Stack Navigator
-- [ ] Create base screens
+- [x] Create base screens
   - [x] AccountsScreen
   - [x] AddressesScreen
   - [x] AuctionScreen
@@ -54,10 +54,10 @@ Progress : `51.61%`
   - [x] ProductsScreen
   - [x] ProfileScreen
   - [x] RegisterScreen
-  - [ ] SplashScreen
+  - [x] SplashScreen
   - [x] UserProductsScreen
   - [x] WinAuctionScreen
-  - [ ] `index.js`
+  - [x] `index.js`
 - [x] Create base components
   - [x] Account
   - [x] Address
