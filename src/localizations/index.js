@@ -1,3 +1,1 @@
-import id from './id.json';
-
-export { id };
+export { default as id } from './id.json';

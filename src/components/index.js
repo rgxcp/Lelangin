@@ -1,9 +1,7 @@
-import Account from './Account';
-import Address from './Address';
-import Bank from './Bank';
-import Bid from './Bid';
-import Invoice from './Invoice';
-import Product from './Product';
-import UserProduct from './UserProduct';
-
-export { Account, Address, Bank, Bid, Invoice, Product, UserProduct };
+export { default as Account } from './Account';
+export { default as Address } from './Address';
+export { default as Bank } from './Bank';
+export { default as Bid } from './Bid';
+export { default as Invoice } from './Invoice';
+export { default as Product } from './Product';
+export { default as UserProduct } from './UserProduct';

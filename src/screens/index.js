@@ -1,49 +1,23 @@
-import AccountsScreen from './AccountsScreen';
-import AddressesScreen from './AddressesScreen';
-import AuctionScreen from './AuctionScreen';
-import BanksScreen from './BanksScreen';
-import CreateAccountScreen from './CreateAccountScreen';
-import CreateAddressScreen from './CreateAddressScreen';
-import CreateProductScreen from './CreateProductScreen';
-import EditAccountScreen from './EditAccountScreen';
-import EditAddressScreen from './EditAddressScreen';
-import EditProductScreen from './EditProductScreen';
-import GuestScreen from './GuestScreen';
-import InvoiceDetailScreen from './InvoiceDetailScreen';
-import InvoicesScreen from './InvoicesScreen';
-import JoinedAuctionsScreen from './JoinedAuctionsScreen';
-import LoginScreen from './LoginScreen';
-import LoseAuctionScreen from './LoseAuctionScreen';
-import ProductDetailScreen from './ProductDetailScreen';
-import ProductsScreen from './ProductsScreen';
-import ProfileScreen from './ProfileScreen';
-import RegisterScreen from './RegisterScreen';
-import SplashScreen from './SplashScreen';
-import UserProductsScreen from './UserProductsScreen';
-import WinAuctionScreen from './WinAuctionScreen';
-
-export {
-  AccountsScreen,
-  AddressesScreen,
-  AuctionScreen,
-  BanksScreen,
-  CreateAccountScreen,
-  CreateAddressScreen,
-  CreateProductScreen,
-  EditAccountScreen,
-  EditAddressScreen,
-  EditProductScreen,
-  GuestScreen,
-  InvoiceDetailScreen,
-  InvoicesScreen,
-  JoinedAuctionsScreen,
-  LoginScreen,
-  LoseAuctionScreen,
-  ProductDetailScreen,
-  ProductsScreen,
-  ProfileScreen,
-  RegisterScreen,
-  SplashScreen,
-  UserProductsScreen,
-  WinAuctionScreen
-};
+export { default as AccountsScreen } from './AccountsScreen';
+export { default as AddressesScreen } from './AddressesScreen';
+export { default as AuctionScreen } from './AuctionScreen';
+export { default as BanksScreen } from './BanksScreen';
+export { default as CreateAccountScreen } from './CreateAccountScreen';
+export { default as CreateAddressScreen } from './CreateAddressScreen';
+export { default as CreateProductScreen } from './CreateProductScreen';
+export { default as EditAccountScreen } from './EditAccountScreen';
+export { default as EditAddressScreen } from './EditAddressScreen';
+export { default as EditProductScreen } from './EditProductScreen';
+export { default as GuestScreen } from './GuestScreen';
+export { default as InvoiceDetailScreen } from './InvoiceDetailScreen';
+export { default as InvoicesScreen } from './InvoicesScreen';
+export { default as JoinedAuctionsScreen } from './JoinedAuctionsScreen';
+export { default as LoginScreen } from './LoginScreen';
+export { default as LoseAuctionScreen } from './LoseAuctionScreen';
+export { default as ProductDetailScreen } from './ProductDetailScreen';
+export { default as ProductsScreen } from './ProductsScreen';
+export { default as ProfileScreen } from './ProfileScreen';
+export { default as RegisterScreen } from './RegisterScreen';
+export { default as SplashScreen } from './SplashScreen';
+export { default as UserProductsScreen } from './UserProductsScreen';
+export { default as WinAuctionScreen } from './WinAuctionScreen';

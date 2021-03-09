@@ -1,7 +1,5 @@
-import AuthTab from './AuthTab';
-import GuestStack from './GuestStack';
-import HomeStack from './HomeStack';
-import JoinedAuctionsStack from './JoinedAuctionsStack';
-import ProfileStack from './ProfileStack';
-
-export { AuthTab, GuestStack, HomeStack, JoinedAuctionsStack, ProfileStack };
+export { default as AuthTab } from './AuthTab';
+export { default as GuestStack } from './GuestStack';
+export { default as HomeStack } from './HomeStack';
+export { default as JoinedAuctionsStack } from './JoinedAuctionsStack';
+export { default as ProfileStack } from './ProfileStack';
