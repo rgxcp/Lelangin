@@ -20,16 +20,23 @@ DEVELOPING
 4. Run app with emulator or real device.
 5. Do-what-you-want-with-it!
 
+## Open Source Licenses
+### Illustrations
+- [Slam](https://storytale.io/packages/slam/)
+
 ## TODOs
-Total Tasks : `93`
+Total Tasks : `97`
 
 Completed Tasks : `59`
 
-Progress : `63.44%`
+Progress : `60.82%`
 
 - [x] Install packages
   - [x] Async Storage
   - [x] Axios
+  - [ ] Expo Font
+  - [ ] Expo Google Fonts
+        - [ ] Archivo
   - [x] React Navigation
     - [x] Material Bottom Tabs Navigator
     - [x] Stack Navigator
