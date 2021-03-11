@@ -30,9 +30,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `97`
 
-Completed Tasks : `62`
+Completed Tasks : `63`
 
-Progress : `63.91%`
+Progress : `64.94%`
 
 - [x] Install packages
   - [x] Async Storage
