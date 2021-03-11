@@ -27,16 +27,16 @@ DEVELOPING
 ## TODOs
 Total Tasks : `97`
 
-Completed Tasks : `59`
+Completed Tasks : `62`
 
-Progress : `60.82%`
+Progress : `63.91%`
 
 - [x] Install packages
   - [x] Async Storage
   - [x] Axios
-  - [ ] Expo Font
-  - [ ] Expo Google Fonts
-        - [ ] Archivo
+  - [x] Expo Font
+  - [x] Expo Google Fonts
+        - [x] Archivo
   - [x] React Navigation
     - [x] Material Bottom Tabs Navigator
     - [x] Stack Navigator
