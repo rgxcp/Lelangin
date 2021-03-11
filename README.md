@@ -23,9 +23,9 @@ DEVELOPING
 ## TODOs
 Total Tasks : `93`
 
-Completed Tasks : `58`
+Completed Tasks : `59`
 
-Progress : `62.36%`
+Progress : `63.44%`
 
 - [x] Install packages
   - [x] Async Storage
@@ -85,7 +85,7 @@ Progress : `62.36%`
   - [x] JoinedAuctionsStack
   - [x] ProfileStack
 - [x] Fill base routes
-- [ ] Configure `App.js`
+- [x] Configure `App.js`
 - [ ] Fill base screens
   - [ ] AccountsScreen
   - [ ] AddressesScreen
