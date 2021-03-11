@@ -21,6 +21,9 @@ DEVELOPING
 5. Do-what-you-want-with-it!
 
 ## Open Source Licenses
+### Fonts
+- [Archivo](https://fonts.google.com/specimen/Archivo?preview.text_type=custom)
+
 ### Illustrations
 - [Slam](https://storytale.io/packages/slam/)
 
