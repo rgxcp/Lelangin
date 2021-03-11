@@ -117,7 +117,7 @@ Progress : `63.91%`
   - [ ] ProductsScreen
   - [ ] ProfileScreen
   - [ ] RegisterScreen
-  - [ ] SplashScreen
+  - [x] SplashScreen
   - [ ] UserProductsScreen
   - [ ] WinAuctionScreen
 - [ ] Fill base components
