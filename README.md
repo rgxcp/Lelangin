@@ -21,8 +21,14 @@ DEVELOPING
 5. Do-what-you-want-with-it!
 
 ## TODOs
-Total Tasks : `0`
+Total Tasks : `5`
 
-Completed Tasks : `0`
+Completed Tasks : `5`
 
-Progress : `0%`
+Progress : `100%`
+
+- [x] Install packages
+  - [x] Async Storage
+  - [x] React Navigation
+    - [x] Material Bottom Tabs Navigator
+    - [x] Stack Navigator
