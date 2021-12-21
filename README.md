@@ -1,4 +1,4 @@
-# JavaScript - React Native (Expo) - Lelangin
+# 💵 JavaScript - React Native (Expo) - Lelangin
 **EN**: Mobile app for holding an auction.
 
 **ID**: Aplikasi mobile untuk menyelenggarakan lelang.
